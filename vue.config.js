@@ -61,7 +61,7 @@ module.exports = {
                 }
             },
             '/tencent': {
-                target: 'https://view.inews.qq.com/g2',
+                target: 'https://view.inews.qq.com/',
                 changeOrigin: true,
                 ws: true, // 是否启用websockets
                 secure: true,
